@@ -57,6 +57,4 @@ def phonebook_app():
         else:
             print("Некорректный ввод. Попробуйте снова.")
 
-# data.write(f'{name} {surname}: {phone}\n{adress}\n\n')    
-
 phonebook_app()
